@@ -8,5 +8,5 @@
        "matches": ["*://*.notion.so/*/*"],
        "js": ["index.js"]
      }
-    ],
+    ]
   }
